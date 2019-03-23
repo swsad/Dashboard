@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# 项目文档目录
 
-You can use the [editor on GitHub](https://github.com/swsad/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+&nbsp;&nbsp;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swsad/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ 1、About（项目概况）
++ 2、Team profile（团队组建与分工）
++ 3、Investigation（项目前期调研/竞品分析）
++ 4、Vision（项目愿景）
++ 5、Product Backlog（产品特性库）
++ 6、Requirement specification（需求规格说明书）
+  + 6.1、Usecase Diagram（用例图）
+  + 6.2、Use Cases（用例+活动图）
+  + 6.3、Domain Models（领域模型）
+  + 6.4、State Models（状态模型）
+  + 6.5、System Sequence Diagrams（功能模型）
+  + 6.6、Supplementary Requirements（补充需求）
++ 7、Design（设计说明书）
+  + 7.1、UI design（界面设计）
+  + 7.2、Database design（数据库设计）
+  + 7.3、Interface API design（接口API设计）
+  + 7.4、Architecture design（架构设计）
+  + 7.5、Usecase design（用例设计）
++ 8、生产规范与指南
+  + 8.1、XX 代码规范
+  + 8.2、REST API 设计规范
+  + 8.3、架构设计、详细设计（BCE方法）到应用程序框架映射指南
+  + 8.4、部署说明
++ 9、成品展示
+  + 9.1、XX短视频
+  + 9.2、XX短视频
++ X1 meeting-records
+  + inception meeting（yy/mm/dd）
++ X2 KANBAN
++ X3 auditing-records
++ X4 Tech/Work Report
+  + 学号-title
++ X5 Final Report
+  + 学号-title
+  + 小组分工与贡献率说明
