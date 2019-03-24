@@ -10,6 +10,7 @@
 
 
 
+
 ## KANBAN
 
 **管理内容**：使用[**KANBAN**](<https://github.com/swsad/Dashboard/projects>)，小组成员每周为自己设定任务，并记录完成情况
