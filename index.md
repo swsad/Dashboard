@@ -30,7 +30,7 @@
   + 9.2、XX短视频
 + X1 meeting-records
   + inception meeting（yy/mm/dd）
-+ X2 KANBAN
++ X2 [KANBAN](<https://github.com/swsad/Dashboard/projects>)
 + X3 auditing-records
 + X4 Tech/Work Report
   + 学号-title
