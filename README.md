@@ -14,7 +14,7 @@
 
 **存储路径**：在`imgs`文件夹中新建文件夹，名字与对应的文档相同，在该目录下存储文档引用的图片，例如在`README`文件夹中存储`README.md`引用的图片
 
-**引用链接**：在文档中引用图片的链接为`https://github.com/swsad/Dashboard/blob/master/imgs/README`加上图片名再加上`?raw=true`，例如`https://github.com/swsad/Dashboard/blob/master/imgs/README/KANBAN.png?raw=true`
+**图片链接**：在文档中引用图片的链接为`https://github.com/swsad/Dashboard/blob/master/imgs/README`加上图片名再加上`?raw=true`，例如`https://github.com/swsad/Dashboard/blob/master/imgs/README/KANBAN.png?raw=true`
 
 
 
