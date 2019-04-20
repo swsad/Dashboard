@@ -3,9 +3,9 @@
 &nbsp;&nbsp;
 
 + 1、[About](<https://swsad.github.io/Dashboard/1-about>)（项目概况）
-+ 2、[Team profile](<https://swsad.github.io/Dashboard/2-team-profile>)（团队组建与分工）
-+ 3、[Investigation](<https://swsad.github.io/Dashboard/3-investigation>)（项目前期调研/竞品分析）
-+ 4、[Vision](<https://swsad.github.io/Dashboard/4-vision>)（项目愿景）
++ 2、[Team profile](https://swsad.github.io/Dashboard/2-team-profile)（团队组建与分工）
++ 3、[Investigation](https://swsad.github.io/Dashboard/3-investigation)（项目前期调研/竞品分析）
++ 4、[Vision](https://swsad.github.io/Dashboard/4-vision)（项目愿景）
 + 5、Product Backlog（产品特性库）
 + 6、Requirement specification（需求规格说明书）
   + 6.1、Usecase Diagram（用例图）
@@ -21,7 +21,7 @@
   + 7.4、Architecture design（架构设计）
   + 7.5、Usecase design（用例设计）
 + 8、生产规范与指南
-  + 8.1、XX 代码规范
+  + 8.1、[招财喵代码规范](https://swsad.github.io/Dashboard/8_1-招财喵代码规范)
   + 8.2、REST API 设计规范
   + 8.3、架构设计、详细设计（BCE方法）到应用程序框架映射指南
   + 8.4、部署说明
