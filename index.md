@@ -4,18 +4,18 @@
 
 + 1、[About](<https://swsad.github.io/Dashboard/1-about>)（项目概况）
 + 2、[Team profile](https://swsad.github.io/Dashboard/2-team-profile)（团队组建与分工）
-+ 3、[Investigation](https://swsad.github.io/Dashboard/3-investigation)（项目前期调研/竞品分析）
-+ 4、[Vision](https://swsad.github.io/Dashboard/4-vision)（项目愿景）
++ 3、[Investigation](https://swsad.github.io/Dashboard/documents/competitive_analysis/competitive_analysis)（项目前期调研/竞品分析）
++ 4、[Vision](https://swsad.github.io/Dashboard/documents/project_vision/projection_vision)（项目愿景）
 + 5、Product Backlog（产品特性库）
 + 6、Requirement specification（需求规格说明书）
-  + 6.1、Usecase Diagram（用例图）
+  + 6.1、[Usecase Diagram](https://swsad.github.io/Dashboard/documents/usercase_diagram/usercase_diagram)（用例图）
   + 6.2、Use Cases（用例+活动图）
   + 6.3、[Domain Models](https://swsad.github.io/Dashboard/6.3-DomainModels)（领域模型）
   + 6.4、[State Models](https://swsad.github.io/Dashboard/6.4-StateModels)（状态模型）
   + 6.5、System Sequence Diagrams（功能模型）
   + 6.6、Supplementary Requirements（补充需求）
 + 7、Design（设计说明书）
-  + 7.1、UI design（界面设计）
+  + 7.1、[UI design](https://swsad.github.io/Dashboard/documents/UI_design/UI_design)（界面设计）
   + 7.2、Database design（数据库设计）
   + 7.3、[Interface API design](https://swsad.github.io/Dashboard/7.3-接口API设计)（接口 API 设计） 
   + 7.4、Architecture design（架构设计）
