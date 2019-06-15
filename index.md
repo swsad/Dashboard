@@ -16,7 +16,7 @@
   + 6.6、Supplementary Requirements（补充需求）
 + 7、Design（设计说明书）
   + 7.1、[UI design](https://swsad.github.io/Dashboard/documents/UI_design/UI_design)（界面设计）
-  + 7.2、Database design（数据库设计）
+  + 7.2、[Database design](https://swsad.github.io/Dashboard/7.2-DatabaseDesign)（数据库设计）
   + 7.3、[Interface API design](https://swsad.github.io/Dashboard/7.3-接口API设计)（接口 API 设计） 
   + 7.4、[Architecture design](https://swsad.github.io/Dashboard/7.4-架构设计)（架构设计）
   + 7.5、[Usecase design](https://swsad.github.io/Dashboard/documents/usecase_design/usecase_design)（用例设计）
