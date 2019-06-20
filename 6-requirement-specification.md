@@ -9,28 +9,21 @@
 
 ## 目录
 
-1、用例建模
++ 1、用例建模
+  + 1.1 [用例图](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase_diagram)
 
-​    - 1.1 [用例图](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase_diagram)
++ 2、用例描述
+  + 2.1 [用例](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase)
+  + 2.2 [活动图](https://swsad.github.io/Dashboard/documents/usecase_diagram/activity_diagram)
 
-2、用例描述
++ 3、领域建模
+  + 3.1 [领域模型](https://swsad.github.io/Dashboard/6-requirement-specification/3.1-domain-models)
 
-​	- 2.1 [用例](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase)
++ 4、状态建模
+  + 4.1 [状态模型](https://swsad.github.io/Dashboard/6-requirement-specification/4.1-state-models)
 
-​	- 2.2 [活动图](https://swsad.github.io/Dashboard/documents/usecase_diagram/activity_diagram)
++ 5、功能建模
+  + 5.1
 
-3、领域建模
-
-​	- 3.1 [领域模型](https://swsad.github.io/Dashboard/6-requirement-specification/3.1-domain-models)
-
-4、状态建模
-
-​	- 4.1 [状态模型](https://swsad.github.io/Dashboard/6-requirement-specification/4.1-state-models)
-
-5、功能建模
-
-​	- 5.1
-
-6、补充需求
-
-​	- 6.1
++ 6、补充需求
+  + 6.1
