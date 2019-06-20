@@ -11,13 +11,13 @@
 
 1、用例建模
 
-​	- 1.1 [用例图](https://swsad.github.io/Dashboard/documents/usercase_diagram/usercase_diagram)
+​	- 1.1 [用例图](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase_diagram)
 
 2、用例描述
 
-​	- 2.1 [用例](https://swsad.github.io/Dashboard/documents/usercase_diagram/usercase)
+​	- 2.1 [用例](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase)
 
-​	- 2.2 [活动图](https://swsad.github.io/Dashboard/documents/usercase_diagram/activity_diagram)
+​	- 2.2 [活动图](https://swsad.github.io/Dashboard/documents/usecase_diagram/activity_diagram)
 
 3、领域建模
 
