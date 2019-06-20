@@ -11,7 +11,7 @@
 
 1、用例建模
 
-​	- 1.1 [用例图](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase_diagram)
+​    - 1.1 [用例图](https://swsad.github.io/Dashboard/documents/usecase_diagram/usecase_diagram)
 
 2、用例描述
 
