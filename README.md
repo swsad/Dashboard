@@ -25,4 +25,4 @@
 
 **任务规范**：记录成员名和任务内容，例如
 
-![KANBAN](<https://github.com/swsad/Dashboard/blob/master/imgs/README/KANBAN.png?raw=true>)
+![KANBAN](../imgs/README/KANBAN.png)
