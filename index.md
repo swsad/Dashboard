@@ -4,7 +4,7 @@
 
 + 1、[About](<https://swsad.github.io/Dashboard/1-about>)（项目概况）
 + 2、[Team profile](https://swsad.github.io/Dashboard/2-team-profile)（团队组建与分工）
-+ 3、[Investigation](https://swsad.github.io/Dashboard/3-investigation)（项目前期调研/竞品分析）
++ 3、[Investigation](https://swsad.github.io/Dashboard/documents/competitive_analysis/competitive_analysis)（项目前期调研/竞品分析）
 + 4、[Vision](https://swsad.github.io/Dashboard/4-vision)（项目愿景）
 + 5、[Product Backlog](https://swsad.github.io/Dashboard/5-product-backlog)（产品特性库）
 + 6、[Requirement Specification](https://swsad.github.io/Dashboard/6-requirement-specification)（需求规格说明书）
