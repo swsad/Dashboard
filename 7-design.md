@@ -17,6 +17,6 @@
 - 3、API设计
   - 3.1 [招财喵API设计](https://swsad.github.io/Dashboard/7-design/3.1-interface-api-design)
 - 4、软件架构设计
-  - 4.1 [招财喵架构设计](https://swsad.github.io/Dashboard/7-design/3.1-interface-api-design)
+  - 4.1 [招财喵架构设计](https://swsad.github.io/Dashboard/7-design/4.1-architecture-design)
 - 5、用例设计
   - 5.1
