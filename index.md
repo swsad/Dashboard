@@ -26,7 +26,7 @@
   + 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
   + 8.4 部署说明
 + 9、[测试](https://swsad.github.io/Dashboard/9-测试)
-  + 9.1 [测试方案](https://swsad.github.io/Dashboard/9-测试/9.1-测试方案)
+  + 9.1 测试方案
 + 10、[成品展示](https://swsad.github.io/Dashboard/10-成品展示)
   + 10.1 招财喵短视频
 + X1 [Meeting Records](https://swsad.github.io/Dashboard/x1-meeting-records)
