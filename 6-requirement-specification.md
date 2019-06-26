@@ -13,6 +13,7 @@
 | v1.6 | 2019-5-20 |       创建发布者活动图       | kotomineshiki |
 | v1.7 | 2019-6-15 | 更新领域模型和状态模型（v2） |   Boooooby    |
 | v2.0 | 2019-6-20 |         整理文档目录         | FantasticGold |
+| v2.1 | 2019-6-26 |         更新用例图的命名、完善vision     | kotomineshiki |
 
 ## 目录
 
