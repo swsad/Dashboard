@@ -34,4 +34,4 @@
   + 5.1 [功能模型](https://swsad.github.io/Dashboard/6-requirement-specification/5.1-system-sequence-diagrams)
 
 + 6、补充需求
-  + 6.1 [补充需求](https://swsad.github.io/Dashboard/6-requirement-specification/6.1-Supplementary-Requirements)
+  + 6.1 [补充需求](https://swsad.github.io/Dashboard/6-requirement-specification/6.1-supplementary-requirements)
