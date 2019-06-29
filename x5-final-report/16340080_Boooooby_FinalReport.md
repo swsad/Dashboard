@@ -48,11 +48,11 @@
 
 - Dashboard 文档仓库
 
-  ![](/Users/booooby/Documents/系分/Dashboard.png)
+  ![](https://github.com/swsad/Dashboard/raw/master/imgs/FinalReport/Boooooby_Dashboard.png)
 
 - Code 代码仓库
 
-  ![](/Users/booooby/Documents/系分/Code.png)
+  ![](https://github.com/swsad/Dashboard/raw/master/imgs/FinalReport/Boooooby_Code.png)
 
 
 
