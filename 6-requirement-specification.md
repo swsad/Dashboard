@@ -8,12 +8,13 @@
 | v1.1 | 2019-3-28 |      创建用例图（1.0）       | kotomineshiki |
 | v1.2 | 2019-3-30 |      更新用例图（2.0）       | kotomineshiki |
 | v1.3 | 2019-4-14 |      更新用例图（3.0）       | kotomineshiki |
-| v1.4 | 2019-5-14 |   创建用户活动图和用例描述   | kotomineshiki |
+| v1.4 | 2019-5-14 |   创建活动图   | kotomineshiki |
 | v1.5 | 2019-5-14 | 创建领域模型和状态模型（v1） |   Boooooby    |
-| v1.6 | 2019-5-20 |       创建发布者活动图       | kotomineshiki |
+| v1.6 | 2019-5-20 |       更新活动图       | kotomineshiki |
 | v1.7 | 2019-6-15 | 更新领域模型和状态模型（v2） |   Boooooby    |
 | v2.0 | 2019-6-20 |         整理文档目录         | FantasticGold |
 | v2.1 | 2019-6-26 |         更新用例图的命名、完善vision     | kotomineshiki |
+| v2.2 | 2019-6-27 | 创建功能模型，添加补充需求 | FantasticGold |
 
 ## 目录
 
@@ -30,7 +31,7 @@
   + 4.1 [状态模型](https://swsad.github.io/Dashboard/6-requirement-specification/4.1-state-models)
 
 + 5、功能建模
-  + 5.1
+  + 5.1 [功能模型](https://swsad.github.io/Dashboard/6-requirement-specification/5.1-system-sequence-diagrams)
 
 + 6、补充需求
-  + 6.1
+  + 6.1 [补充需求](https://swsad.github.io/Dashboard/6-requirement-specification/6.1-Supplementary-Requirements)
