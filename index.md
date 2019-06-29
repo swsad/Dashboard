@@ -29,6 +29,7 @@
   + 9.1 测试方案
 + 10、[成品展示](https://swsad.github.io/Dashboard/10-成品展示)
   + 10.1 招财喵短视频
+  + 10.2 招财喵体验版
 + X1 [Meeting Records](https://swsad.github.io/Dashboard/x1-meeting-records)
   + Inception Meeting（yy/mm/dd）
   + Iteration 1 Meeting
