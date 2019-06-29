@@ -5,8 +5,8 @@
 ## 个人简短小结
 
 - 作为后端工程师，在项目中我完成的内容如下：
-  - 领域模型和状态模型的设计，可以参考[领域模型](https://github.com/swsad/Dashboard/raw/master/6-requirement-specification/3.1-domain-models.md)和[状态模型](https://github.com/swsad/Dashboard/raw/master/6-requirement-specification/4.1-state-models.md)
-  - 数据库的设计与实现，可以参考[数据库逻辑模型设计](https://github.com/swsad/Dashboard/raw/master/7-design/2.1-database-design.md)
+  - 领域模型和状态模型的设计，可以参考[领域模型](https://swsad.github.io/Dashboard/6-requirement-specification/3.1-domain-models)和[状态模型](https://github.com/swsad/Dashboard/raw/master/6-requirement-specification/4.1-state-models.md)
+  - 数据库的设计与实现，可以参考[数据库逻辑模型设计](https://swsad.github.io/Dashboard/7-design/2.1-database-design)
   - 部分后端API的设计实现
 - 除了后端的任务外，我还做到了以下几项：
   - 坚持每周开例会、写看板，保证项目的进展，可以参考[看板](https://github.com/swsad/Dashboard/projects)
