@@ -10,6 +10,7 @@
 | v1.3 | 2019-6-15 |   创建架构设计文档   | CastleOnTheHill |
 | v1.4 | 2019-6-15 | 创建数据逻辑设计文档 |    Boooooby     |
 | v2.0 | 2019-6-20 |     整理文档目录     |  FantasticGold  |
+| v2.1 | 2019-6-27 |   创建用例设计文档   |  FantasticGold  |
 
 ## 目录
 
@@ -22,4 +23,4 @@
 - 4、软件架构设计
   - 4.1 [招财喵架构设计](https://swsad.github.io/Dashboard/7-design/4.1-architecture-design)
 - 5、用例设计
-  - 5.1
+  - 5.1 [招财喵用例设计](https://swsad.github.io/Dashboard/7-design/5.1-usecase-design)
