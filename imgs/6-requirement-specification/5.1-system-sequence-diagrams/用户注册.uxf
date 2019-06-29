@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>370</x>
+      <y>290</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>:中大用户
+valign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>860</x>
+      <y>290</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>:云开发服务端
+valign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>410</x>
+      <y>340</y>
+      <w>30</w>
+      <h>400</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;380.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>900</x>
+      <y>340</y>
+      <w>30</w>
+      <h>400</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;380.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>410</x>
+      <y>540</y>
+      <w>520</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+注册（用户信息，验证码）</panel_attributes>
+    <additional_attributes>500.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>410</x>
+      <y>400</y>
+      <w>520</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+获取验证码（中大邮箱）</panel_attributes>
+    <additional_attributes>500.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>410</x>
+      <y>460</y>
+      <w>520</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+发送验证码</panel_attributes>
+    <additional_attributes>10.0;20.0;500.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>410</x>
+      <y>650</y>
+      <w>520</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+注册成功</panel_attributes>
+    <additional_attributes>10.0;20.0;500.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>900</x>
+      <y>570</y>
+      <w>160</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+添加用户信息</panel_attributes>
+    <additional_attributes>10.0;80.0;60.0;80.0;60.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>
