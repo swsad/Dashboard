@@ -31,16 +31,23 @@
   + 10.1 招财喵短视频
   + 10.2 招财喵体验版
 + X1 [Meeting Records](https://swsad.github.io/Dashboard/x1-meeting-records)
-  + Inception Meeting（yy/mm/dd）
-  + Iteration 1 Meeting
-  + Iteration 2 Meeting
-  + Iteration 3 Meeting
-  + Iteration 4 Meeting
+  + Inception Meeting（2019.3.15）
+  + Iteration 1 Meeting（2019.3.22）
+  + Iteration 2 Meeting（2019.4.14）
+  + Iteration 3 Meeting（2019.5.11）
+  + Iteration 4 Meeting（2019.6.3）
 + X2 [KANBAN](https://swsad.github.io/Dashboard/x2-kanban)
 + X3 [Auditing Records](https://swsad.github.io/Dashboard/x3-auditing-records)
 + X4 [Tech/Work Report](https://swsad.github.io/Dashboard/x4-tech-work-report)
-  + 16340064-title
+  + 16340064 - 微信小程序开发入门
+  + 15355119 - 微信小程序 生成问卷前端
+  + 15355119 - 微信小程序 回答问卷前端
+  + 16340080 - Git 常用操作
 + X5 [Final Report](https://swsad.github.io/Dashboard/x5-final-report)
-  + 16340064-title
+  + 16340064 - FantasticGold
+  + 15355119 - yaoxh6
+  + 16340076 - CastleOnTheHill
+  + 16340316 - kotomineshiki
+  + 16340080 - Boooooby
   + 小组分工与贡献率说明
 

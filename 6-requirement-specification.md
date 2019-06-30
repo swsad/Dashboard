@@ -14,7 +14,7 @@
 | v1.7 | 2019-6-15 | 更新领域模型和状态模型（v2） |   Boooooby    |
 | v2.0 | 2019-6-20 |         整理文档目录         | FantasticGold |
 | v2.1 | 2019-6-26 |         更新用例图的命名、完善vision     | kotomineshiki |
-| v2.2 | 2019-6-27 | 创建功能模型，添加补充需求 | FantasticGold |
+| v2.2 | 2019-6-29 | 创建功能模型，添加补充需求 | FantasticGold |
 
 ## 目录
 

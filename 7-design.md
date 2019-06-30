@@ -10,7 +10,7 @@
 | v1.3 | 2019-6-15 |   创建架构设计文档   | CastleOnTheHill |
 | v1.4 | 2019-6-15 | 创建数据逻辑设计文档 |    Boooooby     |
 | v2.0 | 2019-6-20 |     整理文档目录     |  FantasticGold  |
-| v2.1 | 2019-6-27 |   创建用例设计文档   |  FantasticGold  |
+| v2.1 | 2019-6-29 |   创建用例设计文档   |  FantasticGold  |
 
 ## 目录
 
