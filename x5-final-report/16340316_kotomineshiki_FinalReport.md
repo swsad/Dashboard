@@ -3,6 +3,7 @@
 在该项目中，我主要负责UI设计、产品分析、验收测试的部分。整体上来看，我的git commit主要集中于前期对整个产品的需求分析和设计的部分，后期的一个波峰是对产品进行黑盒用例测试的设计和执行；从单个迭代来看我的提交波峰处于单次迭代的中前期，暗合与软件开发的流程和模型。
 
 ## PSP2.1 估计
+
 |                                       | **Personal Software Process Stages**   | **Time (%)** |
 | ------------------------------------- | -------------------------------------- | ------------ |
 | **Planning**                          | **计划**                               | **15**        |
@@ -32,6 +33,8 @@
 ### [竞品分析和前期调研]
 产出分别为：
 [产品愿景](https://github.com/swsad/Dashboard/blob/master/documents/project_vision/projection_vision) 
+
+
 [竞品分析](https://github.com/swsad/Dashboard/blob/master/documents/competitive_analysis/competitive_analysis)
 这一部分主要是作为需求分析和设计的素材，采用了使用问卷星发布问卷的方式来进行调查。
 
