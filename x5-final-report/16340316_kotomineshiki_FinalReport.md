@@ -19,7 +19,7 @@
 | design                                | 具体设计                               | 20           |
 | coding                                | 具体编码                               | 0           |
 | code review                           | 代码复审                               | 0           |
-| test                                  | 测试                                   | 15           |
+| test                                  | 测试                                   | 10          |
 | **Report**                            | **报告**                               | **20**       |
 | test report                           | 测试报告                               | 10         |
 | size measurement                      | 计算工作量                             | 8            |
