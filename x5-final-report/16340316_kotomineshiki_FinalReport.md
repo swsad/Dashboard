@@ -56,7 +56,9 @@ UI设计是我工作量最大的部分。主要是因为每次迭代的开发阶
 
 [平面原型设计工具-Adobe AI入门](https://blog.csdn.net/kotomineshiki/article/details/94333016)
 
-[面向设计师、产品的GitHubDesktop入门培训]](https://blog.csdn.net/kotomineshiki/article/details/94358688)
+
+
+[面向设计师、产品的GitHubDesktop入门培训](https://blog.csdn.net/kotomineshiki/article/details/94358688)
 
 ###  特别感谢
 - FantasticGold，解决了项目收尾时的诸多琐碎的细微bug，站好最后一班。
