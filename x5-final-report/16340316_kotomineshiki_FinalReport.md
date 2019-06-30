@@ -30,12 +30,13 @@
 
 考量到Axure平台对微信小程序的交互模型资料和工具不多，本身也没法直接导出可用的前端代码，使用axure做可交互原型性价比不高，所以这次选用了制作静态原型的工具 Adobe AI。
 
-### [竞品分析和前期调研]
+### 竞品分析和前期调研
 产出分别为：
 [产品愿景](https://github.com/swsad/Dashboard/blob/master/documents/project_vision/projection_vision) 
 
 
 [竞品分析](https://github.com/swsad/Dashboard/blob/master/documents/competitive_analysis/competitive_analysis)
+
 这一部分主要是作为需求分析和设计的素材，采用了使用问卷星发布问卷的方式来进行调查。
 
 ### [黑盒测试](https://github.com/swsad/Dashboard/blob/master/documents/blackbox_design/blackbox_test)
@@ -48,7 +49,9 @@ UI设计是我工作量最大的部分。主要是因为每次迭代的开发阶
 最有价值的是黑盒测试，保证了产品的质量。我几乎对所有可动的部分都进行了测试，发现了很多因为没做鲁棒性处理导致的问题。
 
 ## 个人博客清单
+
 [平面原型设计工具-Adobe AI入门]（https://blog.csdn.net/kotomineshiki/article/details/94333016）
+
 [面向设计师、产品的GitHubDesktop入门培训] (https://blog.csdn.net/kotomineshiki/article/details/94358688 )
 
 ###  特别感谢
