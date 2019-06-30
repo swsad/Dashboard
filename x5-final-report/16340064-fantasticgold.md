@@ -93,7 +93,7 @@
 
 + swsad/Dashboard
 
-  ![Dashboard](https://github.com/swsad/Dashboard/raw/master/imgs/x5-final-report/16340064-fantasticgold/swsad-code.png)
+  ![Dashboard](https://github.com/swsad/Dashboard/raw/master/imgs/x5-final-report/16340064-fantasticgold/swsad-dashboard.png)
 
   
 
