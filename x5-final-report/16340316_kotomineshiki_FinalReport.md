@@ -31,6 +31,7 @@
 考量到Axure平台对微信小程序的交互模型资料和工具不多，本身也没法直接导出可用的前端代码，使用axure做可交互原型性价比不高，所以这次选用了制作静态原型的工具 Adobe AI。
 
 ### 竞品分析和前期调研
+
 产出分别为：
 [产品愿景](https://github.com/swsad/Dashboard/blob/master/documents/project_vision/projection_vision) 
 
