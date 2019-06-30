@@ -39,7 +39,10 @@
 + X2 [KANBAN](https://swsad.github.io/Dashboard/x2-kanban)
 + X3 [Auditing Records](https://swsad.github.io/Dashboard/x3-auditing-records)
 + X4 [Tech/Work Report](https://swsad.github.io/Dashboard/x4-tech-work-report)
-  + 16340064-title
+  + 16340064 - 微信小程序开发入门
+  + 15355119 - 微信小程序 生成问卷前端
+  + 15355119 - 微信小程序 回答问卷前端
+  + 16340080 - Git 常用操作
 + X5 [Final Report](https://swsad.github.io/Dashboard/x5-final-report)
   + 16340064-title
   + 小组分工与贡献率说明
