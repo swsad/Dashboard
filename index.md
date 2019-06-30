@@ -42,6 +42,9 @@
   + 16340064 - 微信小程序开发入门
   + 15355119 - 微信小程序 生成问卷前端
   + 15355119 - 微信小程序 回答问卷前端
+  + 16340076 - 小程序云开发总结
+  + 16340316 - 平面原型设计工具-Adobe AI入门
+  + 16340316 - 面向设计师、产品的GitHubDesktop入门培训
   + 16340080 - Git 常用操作
 + X5 [Final Report](https://swsad.github.io/Dashboard/x5-final-report)
   + 16340064 - FantasticGold
